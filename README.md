@@ -1,5 +1,5 @@
 # SecureCodeAnalyzer
-# SecureCodeAnalyzer
+
 SecureCodeAnalyzer is a Python tool designed to analyze source code for the **OWASP Top 10 vulnerabilities** in **PHP**, **Python**, **Java**, and **Ruby**.
 
 ---
