@@ -61,6 +61,9 @@ python SecureCodeAnalyzer.py --help
 ## output
 <img width="1509" alt="Screenshot 2025-03-18 at 8 35 36 PM" src="https://github.com/user-attachments/assets/6389aa52-55f6-4817-ac67-2d1685b47a9b" />
 
+## Report
+<img width="1453" alt="Screenshot 2025-03-18 at 8 38 27 PM" src="https://github.com/user-attachments/assets/1b57d1e0-3a3e-4e55-9537-0999850e1a2b" />
+
 
 # Contributing to SecureCodeAnalyzer
 
