@@ -58,6 +58,9 @@ Display help:
 ```
 python SecureCodeAnalyzer.py --help
 ```
+## output
+<img width="734" alt="Screenshot 2025-03-18 at 8 28 08 PM" src="https://github.com/user-attachments/assets/0524f039-c035-4915-b9e3-59f844647508" />
+
 # Contributing to SecureCodeAnalyzer
 
 We welcome contributions from the community! Here's how you can help:
@@ -80,3 +83,9 @@ We welcome contributions from the community! Here's how you can help:
  **Support Development**  
 If you find this tool helpful and would like to support its development:  
 👉 [Buy me a coffee](https://buymeacoffee.com/alexboteroh)
+
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+🔥 Developed by Alexander
