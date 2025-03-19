@@ -59,7 +59,8 @@ Display help:
 python SecureCodeAnalyzer.py --help
 ```
 ## output
-<img width="734" alt="Screenshot 2025-03-18 at 8 28 08 PM" src="https://github.com/user-attachments/assets/0524f039-c035-4915-b9e3-59f844647508" />
+<img width="1509" alt="Screenshot 2025-03-18 at 8 35 36 PM" src="https://github.com/user-attachments/assets/6389aa52-55f6-4817-ac67-2d1685b47a9b" />
+
 
 # Contributing to SecureCodeAnalyzer
 
